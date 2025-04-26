@@ -30,7 +30,7 @@ This project was developed as part of the requirements for the BSc Engineering i
 ## Screenshots
 *Add screenshots of the app here to showcase the UI and features.*
 
-1. **Home Screen**: [https://i.postimg.cc/nzJGpjtq/i.png]
+1. **Home Screen**: ![Home](https://i.postimg.cc/nzJGpjtq/i.png)
 2. **Country Statistics**: [Insert screenshot or placeholder]
 3. **Symptom Checker**: [Insert screenshot or placeholder]
 4. **District Data**: [Insert screenshot or placeholder]
