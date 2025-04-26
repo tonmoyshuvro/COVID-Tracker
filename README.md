@@ -1,7 +1,5 @@
 # COVID Tracker App
 
-![COVID Tracker Banner](https://via.placeholder.com/1200x300.png?text=COVID+Tracker+App)
-
 A mobile application developed to track and provide real-time COVID-19 data globally and locally in Bangladesh. The app aims to enhance awareness by offering up-to-date statistics, symptom checking, and educational resources about the pandemic.
 
 ## Table of Contents
@@ -32,7 +30,7 @@ This project was developed as part of the requirements for the BSc Engineering i
 ## Screenshots
 *Add screenshots of the app here to showcase the UI and features.*
 
-1. **Home Screen**: [Insert screenshot or placeholder]
+1. **Home Screen**: [https://i.postimg.cc/nzJGpjtq/i.png]
 2. **Country Statistics**: [Insert screenshot or placeholder]
 3. **Symptom Checker**: [Insert screenshot or placeholder]
 4. **District Data**: [Insert screenshot or placeholder]
@@ -49,7 +47,7 @@ To run the COVID Tracker App locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/covid-tracker-app.git
+   git clone https://github.com/your-username/covid-tracker.git
    ```
 2. **Navigate to Project Directory**:
    ```bash
